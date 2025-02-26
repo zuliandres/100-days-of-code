@@ -21,3 +21,11 @@ find music / audio coding - open source projects
 http://www.musicgenreslist.com/
 
 https://blog.det.life/5-habits-of-highly-effective-data-engineers-to-master-in-2025-33f400fb4cad
+
+
+### Day 1: February 26, 2025
+
+FreeCodeCamp 
+**Today's Progress**: did until 78 steps. This is a good way to start on a habit and not think too much about the work
+
+**Thoughts**: Super easy and boring tutorial, but this also helps me get started with some recap and also building on JS (algs/DS) which never where my strong suits.
