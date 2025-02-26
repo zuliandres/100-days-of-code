@@ -15,4 +15,7 @@ FreeCodeCamp and Environment
 **Alegre**: 30 minutos de practica con practicas de Richi y el video, esta sonando bueno. 85 bpm
 
 
+check 
+https://www.playwithyourmusic.org/
+find music / audio coding - open source projects
 
