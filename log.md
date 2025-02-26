@@ -1,9 +1,18 @@
 # 100 Days Of Code - Log
+Tracker:
+"https://docs.google.com/spreadsheets/d/1hOEDOyVb7T6EPNDbdzDeUCAdoy9TFby_cx6anjgcXxk/edit?gid=0#gid=0"
+Codecamp:
+"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-introductory-javascript-by-building-a-pyramid-generator"
+
 
 ### Day 0: February 25, 2025
 
+FreeCodeCamp and Environment
 **Today's Progress**: Setup my environment with github ssh, vscode, homebrew, and copilot AI. Signed up for JS algorithms and data structures and did 25 steps. This is a good way to start on a habit and not think too much about the work
 
 **Thoughts**: Super easy and borin tutorial, but this also helps me get started with some recap and also building on JS (algs/DS) which never where my strong suits.
+
+**Alegre**: 30 minutos de practica con practicas de Richi y el video, esta sonando bueno. 85 bpm
+
 
 
