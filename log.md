@@ -19,3 +19,5 @@ check
 https://www.playwithyourmusic.org/
 find music / audio coding - open source projects
 http://www.musicgenreslist.com/
+
+https://blog.det.life/5-habits-of-highly-effective-data-engineers-to-master-in-2025-33f400fb4cad
