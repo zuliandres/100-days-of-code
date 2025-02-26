@@ -29,3 +29,5 @@ FreeCodeCamp
 **Today's Progress**: did until 78 steps. This is a good way to start on a habit and not think too much about the work
 
 **Thoughts**: Super easy and boring tutorial, but this also helps me get started with some recap and also building on JS (algs/DS) which never where my strong suits.
+
+**Alegre**: 22 minutos de practica con practicas de Richi y el video, esta sonando bueno. 90 bpm, still struggling with some fills.
