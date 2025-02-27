@@ -31,3 +31,9 @@ FreeCodeCamp
 **Thoughts**: Super easy and boring tutorial, but this also helps me get started with some recap and also building on JS (algs/DS) which never where my strong suits.
 
 **Alegre**: 22 minutos de practica con practicas de Richi y el video, esta sonando bueno. 90 bpm, still struggling with some fills.
+
+**Resplandor**:
+Decidi poner todo en un mismo lugar porque esta todo esparcido y me estresa y me da rabia y me confunde.
+Haciendo backup del laptop para luego limpiar discos duros y organizar archivos manana todo el dia.
+Voy a poner todo lo que es ideas/letras y musica en un solo lugar para poder visualizarlo, si no todo esta regado y me enredo mucho.
+OP-1 tapes, Loops, Recordings, Notes, Gdrive files, Sesiones, etc.
