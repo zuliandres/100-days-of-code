@@ -37,3 +37,18 @@ Decidi poner todo en un mismo lugar porque esta todo esparcido y me estresa y me
 Haciendo backup del laptop para luego limpiar discos duros y organizar archivos manana todo el dia.
 Voy a poner todo lo que es ideas/letras y musica en un solo lugar para poder visualizarlo, si no todo esta regado y me enredo mucho.
 OP-1 tapes, Loops, Recordings, Notes, Gdrive files, Sesiones, etc.
+
+
+### Day 2: Monday March 3rd, 2025
+
+FreeCodeCamp 
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Alegre**: 
+
+**Website**:
+Setting up Hostgator SSH :) but that BS didnt really work :( so gonna try FTP tomorrow.
+
+**Resplandor**:
