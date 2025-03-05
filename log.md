@@ -4,8 +4,11 @@ Tracker:
 Codecamp:
 "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-introductory-javascript-by-building-a-pyramid-generator"
 
+## Day -1: Mon Feb 24, 2025
+**Vox** Volvi con Carlos!!! Clasesita tranqui virtual
 
-### Day 0: February 25, 2025
+
+### Day 0: Tues February 25, 2025
 
 FreeCodeCamp and Environment
 **Today's Progress**: Setup my environment with github ssh, vscode, homebrew, and copilot AI. Signed up for JS algorithms and data structures and did 25 steps. This is a good way to start on a habit and not think too much about the work
@@ -23,7 +26,7 @@ http://www.musicgenreslist.com/
 https://blog.det.life/5-habits-of-highly-effective-data-engineers-to-master-in-2025-33f400fb4cad
 
 
-### Day 1: February 26, 2025
+### Day 1: Wed February 26, 2025
 
 FreeCodeCamp 
 **Today's Progress**: did until 78 steps. This is a good way to start on a habit and not think too much about the work
@@ -39,7 +42,34 @@ Voy a poner todo lo que es ideas/letras y musica en un solo lugar para poder vis
 OP-1 tapes, Loops, Recordings, Notes, Gdrive files, Sesiones, etc.
 
 
-### Day 2: Monday March 3rd, 2025
+### Day 2: Thurs February 26, 2025
+
+FreeCodeCamp 
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Resplandor**:
+**Alegre**: Clase con Hishi y notas en la BLA
+**Vox**
+
+
+### Day 3: Fri February 26, 2025
+
+FreeCodeCamp 
+**Today's Progress**: 
+**Thoughts**: 
+**Resplandor**: 
+**Alegre**: 
+**Vox** Met with Mila, listened and also met with Piedramaria and recorded some vocals for base and practice.
+**Social**: Went to visit Paradisco and chat with Pedro and Jorge/ Ernesto tmbn estaba :). Pending dinner, controller pickup with Chloe.
+
+**WEEKEND**
+**Saturday**: Marimbea Pacifico, Piedramaria theater, Mecanica con Juanse La Boa y Piranas.
+**Sunday**: Marimbea Chloe y Oscars con Alicia
+
+
+### Day 4: Monday March 3rd, 2025
 
 FreeCodeCamp 
 **Today's Progress**:
@@ -49,6 +79,36 @@ FreeCodeCamp
 **Alegre**: 
 
 **Website**:
-Setting up Hostgator SSH :) but that BS didnt really work :( so gonna try FTP tomorrow.
+Setting up Hostgator SSH :) but that BS didnt really work :( so gonna try FTP
 
 **Resplandor**:
+
+
+### Day 5: Tuesday March 4th, 2025
+
+FreeCodeCamp 
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Website**:
+
+**RESPLANDOR**:
+**Alegre**: 
+Practique alegre 20-25 min y escuche algo de musica tmbn agregando a playlist en spotify y youtube
+
+
+### Day 6: Wed March 5th, 2025
+
+FreeCodeCamp 
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Website**:
+
+**RESPLANDOR**:
+**Alegre**: 
+
+**Voz**: 
+
