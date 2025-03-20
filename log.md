@@ -112,3 +112,21 @@ FreeCodeCamp
 
 **Voz**: 
 
+
+### Day 7: Wed March 19th, 2025
+
+FreeCodeCamp 
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Website**:
+
+**RESPLANDOR**:
+**Alegre**: 
+
+**Voz**: 
+
+**Canciones**: Trabaje en la cancion con Camelia!
+Ademas de terapia intensa sobre mis patrones y juicios internos
+Estoy bien, estoy trabajando arduo, de a poquito consiguiendo acercarme a los sueños.
