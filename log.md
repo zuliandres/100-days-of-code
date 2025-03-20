@@ -130,3 +130,4 @@ FreeCodeCamp
 **Canciones**: Trabaje en la cancion con Camelia!
 Ademas de terapia intensa sobre mis patrones y juicios internos
 Estoy bien, estoy trabajando arduo, de a poquito consiguiendo acercarme a los sueños.
+Ah! tambien algo de K y jazz con Chloe y Santi y Lana fue bonito en la Buhoardilla
