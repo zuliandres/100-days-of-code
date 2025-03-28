@@ -131,3 +131,8 @@ FreeCodeCamp
 Ademas de terapia intensa sobre mis patrones y juicios internos
 Estoy bien, estoy trabajando arduo, de a poquito consiguiendo acercarme a los sueños.
 Ah! tambien algo de K y jazz con Chloe y Santi y Lana fue bonito en la Buhoardilla
+
+
+March 28th
+want to come back pretty soon, just posting this to bring up the priority to get back into it!
+love you so Xuli
