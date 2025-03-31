@@ -136,3 +136,23 @@ Ah! tambien algo de K y jazz con Chloe y Santi y Lana fue bonito en la Buhoardil
 March 28th
 want to come back pretty soon, just posting this to bring up the priority to get back into it!
 love you so Xuli
+
+### Day 8: Wed March 30th, 2025
+
+5 DAY GEN AI: Day 1! 
+**Finished day 1**:
+Didn't really go deep into the papers.. not really interested :/ but the kaggle notebooks were fun
+
+FreeCodeCamp 
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Website**:
+
+**RESPLANDOR**:
+**Alegre**: 
+
+**Voz**: 
+
+**Canciones**: generagener condraft, cdmx of thei of t 
