@@ -137,7 +137,7 @@ March 28th
 want to come back pretty soon, just posting this to bring up the priority to get back into it!
 love you so Xuli
 
-### Day 8: Wed March 30th, 2025
+### Day 8: Sunday March 30th, 2025
 
 5 DAY GEN AI: Day 1! 
 **Finished day 1**:
@@ -155,4 +155,4 @@ FreeCodeCamp
 
 **Voz**: 
 
-**Canciones**: generagener condraft, cdmx of thei of t 
+**Canciones**: 
