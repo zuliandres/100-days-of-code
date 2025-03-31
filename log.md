@@ -151,8 +151,8 @@ FreeCodeCamp
 **Website**:
 
 **RESPLANDOR**:
-**Alegre**: 
+**Alegre**: se tocooo repaso
 
 **Voz**: 
 
-**Canciones**: 
+**Canciones**: conecte todos los dispositivos :)
