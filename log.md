@@ -137,6 +137,8 @@ March 28th
 want to come back pretty soon, just posting this to bring up the priority to get back into it!
 love you so Xuli
 
+
+
 ### Day 8: Sunday March 30th, 2025
 
 5 DAY GEN AI: Day 1! 
@@ -155,4 +157,28 @@ FreeCodeCamp
 
 **Voz**: 
 
-**Canciones**: conecte todos los dispositivos :)
+**Canciones**: conecte todos los dispositivos :) tmbn importe todas las canciones que encontre en "notes" al google doc
+
+
+
+### Day 9: Tuesday April 1st, 2025
+
+5 DAY GEN AI: Day 1! 
+**Finished day 1**:
+Saw the Day 1 livestream
+
+FreeCodeCamp 
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Website**:
+
+**RESPLANDOR**:
+**Alegre**: clase con Rishi
+
+**Voz**: vi algo de coursera y hice todo el calentamiento de 30 min 
+master class 1 episode of christina aguilera
+mata de azar de la india con el collar
+
+**Canciones**:
